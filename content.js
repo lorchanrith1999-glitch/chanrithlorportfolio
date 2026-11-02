@@ -272,7 +272,7 @@ const SPORT = [
       "Participation or result: Champion"
     ],
     "media": [
-      "assets/unnamed.jpg"
+      "assets/1234.jpg"
     ]
   },
   {
